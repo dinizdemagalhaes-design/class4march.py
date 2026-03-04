@@ -5,3 +5,4 @@ print(f"Valor:, {numbers[4]}")
 numbers[4] ='Agora texto'
 print(f"Valor:, {numbers[4]}")
 print(f"Valor:, {numbers}")
+print("Tamanho", len(numbers))
